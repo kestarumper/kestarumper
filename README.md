@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm <a href="">Adrian</a></h1>
+<h1 align="center"> Hi, I'm <a href="https://github.com/kestarumper/">Adrian</a></h1>
 
 <h3 align="center">I'm passionate about automating things with software</h3>
 
@@ -23,5 +23,5 @@
 <hr />
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=kestarumper&theme=react&show_icons=true&include_all_commits=true" alt="GitHub readme stats of kestarumper" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestarumper&theme=react&layout=compact&hide=Jupyter Notebook,TeX,makefile,HTML" alt="Top languages of kestarumper" />
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestarumper&theme=react&layout=compact&hide=Jupyter Notebook,TeX,makefile,HTML" alt="Top languages of kestarumper" /> -->
 </p>
