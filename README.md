@@ -2,13 +2,19 @@
 
 <h3 align="center">I'm passionate about automating things with software</h3>
 
+- ⚛️ React is cool
+
 - 💾 I contribute to <a href="https://uniforms.tools/"><img src="https://github.com/vazco/uniforms/raw/master/uniforms.svg" alt="uniforms" width="16" height="16" /> uniforms</a>
 
 - 📱 I'm currently leading a team that develops a react-native app
 
-- 💻 I've worked on process automation with the use of <a href="https://camunda.com/"><img src="https://camunda.com/wp-content/uploads/2020/06/favicon.png" alt="camunda" width="16" height="16" /> camunda</a>
+- 🖼️ Processing images is fun
 
-- 🌱 I’m currently learning **Rust, AWS**
+- 🔀 Process automation pipelines are fun
+
+- 🌱 I’m currently learning **Rust**
+
+- 💻 I've worked on process automation with the use of <a href="https://camunda.com/"><img src="https://camunda.com/wp-content/uploads/2020/06/favicon.png" alt="camunda" width="16" height="16" /> camunda</a>
 
 <!-- 
 ### Technologies I ❤️ and use
