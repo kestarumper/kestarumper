@@ -4,15 +4,19 @@
 
 - ⚛️ React is cool
 
+- 📱 Expo & React Native is cool
+
 - 💾 I contribute to <a href="https://uniforms.tools/"><img src="https://github.com/vazco/uniforms/raw/master/uniforms.svg" alt="uniforms" width="16" height="16" /> uniforms</a>
 
-- 📱 I'm currently leading a team that develops a react-native app
+- 🎢 I'm currently leading a team that develops a react-native app
 
 - 🖼️ Processing images is fun
 
 - 🔀 Process automation pipelines are fun
 
-- 🌱 I’m currently learning **Rust**
+- 🦀 I wish I could use **Rust** in a fun project
+
+- 🌱 I’m currently experimenting with AI models run on the local mobile machines
 
 - 💻 I've worked on process automation with the use of <a href="https://camunda.com/"><img src="https://camunda.com/wp-content/uploads/2020/06/favicon.png" alt="camunda" width="16" height="16" /> camunda</a>
 
